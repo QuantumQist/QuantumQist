@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert @QuantumQist
 - 🎓 > Physics PhD student, University of Rochester
 - 🧑‍🏫 > Field: Quantum mechanics, theory
-- 🌱 > I'm currently learning about Deep Learning, Reinforcement Learning. I'll post notebooks with toy problems here.
+- 🖥️ > YT: @kawa_w_teorii. This profile is used to store the source code used in the live-coding demonstrations in the channel. 
 - 🖥️ > TikTok / IG: @quantum_qist
 
 <!---
